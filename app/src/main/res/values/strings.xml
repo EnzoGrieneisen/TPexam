@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Enzo_app</string>
+    <string name="devices_in_range">Devices in range</string>
+    <string name="no_device_found">No device found</string>
+    <string name="devices_activity_title">Devices in range</string>
+    <string name="ble_scan_error">
+        Something went wrong trying to get BLE devices. Error code : %1$d
+    </string>
+    <string name="no_device_selected">No device selected</string>
+    <string name="ble_connected_to_device"> <![CDATA[Connected to <%1$s>]]></string>
+    <string name="disconnect_to_raspberrypi">Disconnect device</string>
+    <string name="unknown_error">Unknown error !</string>
+    <string name="no_device_selected_in_config">No BLE device selected !</string>
+    <string name="toggle_led">Toggle LED %1$s</string>
+    <string name="status_error">An error occured writing the status</string>
+    <string name="config_service_not_found">No service found !</string>
+    <string name="config_not_connected">You are not connected to a device !</string>
+</resources>
